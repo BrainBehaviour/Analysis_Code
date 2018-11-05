@@ -21,14 +21,14 @@ _This will include a variety of different scripts for data analysis_
 
 To add your code
 
-Select the sub-folder of the software you programmed in.
-Make a folder with your task name, and place your code files within.
-To create a new folder click on "Create new file", then in the space provided type:
-[name of your folder]/README.md
+	Select the sub-folder of the software you programmed in.
+	Make a folder with your task name, and place your code files within.
+	To create a new folder click on "Create new file", then in the space provided type:
+	[name of your folder]/README.md
 
 For example:
 
-LogReader/README.md
+	LogReader/README.md
 
 Within this Read me file write a title for your script, a description of what it does, the version of the software used, and any published papers using this script.
 
