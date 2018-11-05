@@ -22,7 +22,7 @@ _This will include a variety of different scripts for data analysis_
 To add your code
 
 	Select the sub-folder of the software you programmed in.
-	Make a folder with your task name, and place your code files within.
+	Make a folder with your script name, and place your code files within.
 	To create a new folder click on "Create new file", then in the space provided type:
 	[name of your folder]/README.md
 
