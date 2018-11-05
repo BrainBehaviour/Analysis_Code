@@ -5,19 +5,19 @@ This repository is to hold versions of analysis scripts written using a variety 
 
 **MATLAB**: https://www.mathworks.com/products/matlab.html
 
-This will include general MATLAB, but also MRI and EEG analysis code such as those interacting with SPM, EEGLAB, FieldTrip etc. 
+_This will include general MATLAB, but also MRI and EEG analysis code such as those interacting with SPM, EEGLAB, FieldTrip etc._ 
 
 **R**: https://cran.r-project.org/; https://www.rstudio.com/
 
-This will include a variety of different statistical and analytical scripts, including for imaging analysis.
+_This will include a variety of different statistical and analytical scripts, including for imaging analysis._
 
 **Linux/Unix**:  http://www.ee.surrey.ac.uk/Teaching/Unix/
 
-This will include a variety of different scripts for running or coordinating analysis on linux/unix based machines 
+_This will include a variety of different scripts for running or coordinating analysis on linux/unix based machines_ 
 
 **Python**: https://www.python.org/
 
-This will include a variety of different scripts for data anlysis 
+_This will include a variety of different scripts for data analysis_ 
 
 To add your code
 
